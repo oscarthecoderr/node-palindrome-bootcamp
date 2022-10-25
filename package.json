@@ -1,0 +1,27 @@
+{
+  "name": "palindrome-bootcamp",
+  "version": "1.0.0",
+  "description": "### Goal: Create a simple web application that uses the fs and http modules to validate if a string is a palindrome server side.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscarthecoderr/node-palindrome-bootcamp.git"
+  },
+  "author": "oscar rios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscarthecoderr/node-palindrome-bootcamp/issues"
+  },
+  "homepage": "https://github.com/oscarthecoderr/node-palindrome-bootcamp#readme",
+  "dependencies": {
+    "figlet": "^1.5.2",
+    "fs.js": "^0.0.1",
+    "http.js": "^1.0.0",
+    "querystring": "^0.2.1",
+    "url.js": "^1.0.3"
+  }
+}
